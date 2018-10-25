@@ -1,0 +1,10 @@
+De dang nhap, su dung 3 tai khoan sau day: 
++Student: 
+___username: 1651059
+___pass: tuideptraithisao
++Staff: 
+___username: hmlan
+___pass: 123456
++Student: 
+___username: htthanh
+___pass: nguoithaydangkinh

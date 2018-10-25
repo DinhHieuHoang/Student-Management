@@ -1,0 +1,17 @@
+friend void inputuser( Userlist &a); //trung
+User *log_in(string username_input, string password_input); //hieu
+friend void checkinclass( Staff &a,string id, string CCode,Presence *p);//bao
+friend void inputcourse( Staff &a ); //hieu
+friend void inputscore( Staff &a ); //trung
+friend void readmarks( Staff &a ,string studentid); //trung
+friend void importscore( Staff &a, string lecturerusername ,string CCode); //trung
+void importschedule(); //hieu
+void importcourse(); //tu
+void importstudentlist( string CCode ); //hieu
+void export_course_score(string courseCode);  //export score of course //tu
+void export_student_score(string studentid); //export score of 1 student //tu
+void export_student_list( Presence* p );//bao
+void inputpresence(Presence *& p);//bao
+void getRealTime(Time &);//bao
+void getRealDay( Date & );//bao
+struct score,course,user,userlist,... //tu

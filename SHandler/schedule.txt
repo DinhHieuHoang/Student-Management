@@ -1,0 +1,9 @@
+course code: 5454
+year: 454
+semester: 54564
+ course name: 54
+ lecturer name: 54654
+Starting date: 5465/54654/45644
+ending date: 45645/456454/5465465
+From: 54654
+To: 4654
